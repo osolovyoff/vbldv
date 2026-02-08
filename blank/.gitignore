@@ -1,0 +1,9 @@
+# Folders
+build/
+project/
+configuration/__pycache__
+utils/
+
+# Files
+conanfile.txt
+conanbuildinfo.cmake
