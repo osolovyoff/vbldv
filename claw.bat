@@ -1,1 +1,1 @@
-claude.exe 
+claude-gateway.cmd 
